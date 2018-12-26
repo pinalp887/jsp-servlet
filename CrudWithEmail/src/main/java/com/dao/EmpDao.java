@@ -56,8 +56,8 @@ public class EmpDao {
 	}
 
 	public static void sendEmail(String toEmail, String random, String name) {
-		final String fromEmail = "infantsnursingcaresystem@gmail.com";
-		final String password = "patel@5291#";
+		final String fromEmail = "your email id";
+		final String password = "your password";
 
 		System.out.println("TLSEmail Start");
 		Properties props = new Properties();
